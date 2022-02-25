@@ -1,3 +1,3 @@
-a = 100
-b = 200
-print(a+b)
+num1 = 100
+num2 = 200
+print(num1+num2)
